@@ -2,8 +2,6 @@
 
 A voice-enabled task tracking application where spoken input is converted into structured task data using AI and stored in a database.
 
-Built as part of the **SDE Assignment – Voice-Enabled Task Tracker**.
-
 ---
 
 ## 1. Project Setup
